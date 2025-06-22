@@ -1,0 +1,15 @@
+C:\Users\KIIT\Desktop\Digital Nurture4.0\Learning_Program_Solutions\Week_1_Engineering_concepts\Algorithms_Data Structures\E_commerce_Platform_Search\bin\Debug\net9.0\E_commerce_Platform_Search.exe
+C:\Users\KIIT\Desktop\Digital Nurture4.0\Learning_Program_Solutions\Week_1_Engineering_concepts\Algorithms_Data Structures\E_commerce_Platform_Search\bin\Debug\net9.0\E_commerce_Platform_Search.deps.json
+C:\Users\KIIT\Desktop\Digital Nurture4.0\Learning_Program_Solutions\Week_1_Engineering_concepts\Algorithms_Data Structures\E_commerce_Platform_Search\bin\Debug\net9.0\E_commerce_Platform_Search.runtimeconfig.json
+C:\Users\KIIT\Desktop\Digital Nurture4.0\Learning_Program_Solutions\Week_1_Engineering_concepts\Algorithms_Data Structures\E_commerce_Platform_Search\bin\Debug\net9.0\E_commerce_Platform_Search.dll
+C:\Users\KIIT\Desktop\Digital Nurture4.0\Learning_Program_Solutions\Week_1_Engineering_concepts\Algorithms_Data Structures\E_commerce_Platform_Search\bin\Debug\net9.0\E_commerce_Platform_Search.pdb
+C:\Users\KIIT\Desktop\Digital Nurture4.0\Learning_Program_Solutions\Week_1_Engineering_concepts\Algorithms_Data Structures\E_commerce_Platform_Search\obj\Debug\net9.0\E_commerce_Platform_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Digital Nurture4.0\Learning_Program_Solutions\Week_1_Engineering_concepts\Algorithms_Data Structures\E_commerce_Platform_Search\obj\Debug\net9.0\E_commerce_Platform_Search.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Digital Nurture4.0\Learning_Program_Solutions\Week_1_Engineering_concepts\Algorithms_Data Structures\E_commerce_Platform_Search\obj\Debug\net9.0\E_commerce_Platform_Search.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Digital Nurture4.0\Learning_Program_Solutions\Week_1_Engineering_concepts\Algorithms_Data Structures\E_commerce_Platform_Search\obj\Debug\net9.0\E_commerce_Platform_Search.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Digital Nurture4.0\Learning_Program_Solutions\Week_1_Engineering_concepts\Algorithms_Data Structures\E_commerce_Platform_Search\obj\Debug\net9.0\E_commerce_Platform_Search.sourcelink.json
+C:\Users\KIIT\Desktop\Digital Nurture4.0\Learning_Program_Solutions\Week_1_Engineering_concepts\Algorithms_Data Structures\E_commerce_Platform_Search\obj\Debug\net9.0\E_commerce_Platform_Search.dll
+C:\Users\KIIT\Desktop\Digital Nurture4.0\Learning_Program_Solutions\Week_1_Engineering_concepts\Algorithms_Data Structures\E_commerce_Platform_Search\obj\Debug\net9.0\refint\E_commerce_Platform_Search.dll
+C:\Users\KIIT\Desktop\Digital Nurture4.0\Learning_Program_Solutions\Week_1_Engineering_concepts\Algorithms_Data Structures\E_commerce_Platform_Search\obj\Debug\net9.0\E_commerce_Platform_Search.pdb
+C:\Users\KIIT\Desktop\Digital Nurture4.0\Learning_Program_Solutions\Week_1_Engineering_concepts\Algorithms_Data Structures\E_commerce_Platform_Search\obj\Debug\net9.0\E_commerce_Platform_Search.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Digital Nurture4.0\Learning_Program_Solutions\Week_1_Engineering_concepts\Algorithms_Data Structures\E_commerce_Platform_Search\obj\Debug\net9.0\ref\E_commerce_Platform_Search.dll
