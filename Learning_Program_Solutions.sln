@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week_1_Engineering_concepts", "Week_1_Engineering_concepts", "{4E4CD0B2-6A38-6A6E-2D8F-00FFD878C053}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Design_Patterns&Principle", "Design_Patterns&Principle", "{1C243436-5788-1BD0-68A3-4649A6DD280C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory_Method_Pattern", "Week_1_Engineering_concepts\Design_Patterns&Principle\Factory_Method_Pattern\Factory_Method_Pattern.csproj", "{B030B4ED-14E8-2BC2-4E1E-5D66039B4A34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonApp", "Week_1_Engineering_concepts\Design_Patterns&Principle\SingletonApp\SingletonApp.csproj", "{A11E2C14-86B7-1D15-7EA0-BA1A1C93C17E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B030B4ED-14E8-2BC2-4E1E-5D66039B4A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B030B4ED-14E8-2BC2-4E1E-5D66039B4A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B030B4ED-14E8-2BC2-4E1E-5D66039B4A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B030B4ED-14E8-2BC2-4E1E-5D66039B4A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11E2C14-86B7-1D15-7EA0-BA1A1C93C17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11E2C14-86B7-1D15-7EA0-BA1A1C93C17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11E2C14-86B7-1D15-7EA0-BA1A1C93C17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11E2C14-86B7-1D15-7EA0-BA1A1C93C17E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1C243436-5788-1BD0-68A3-4649A6DD280C} = {4E4CD0B2-6A38-6A6E-2D8F-00FFD878C053}
+		{B030B4ED-14E8-2BC2-4E1E-5D66039B4A34} = {1C243436-5788-1BD0-68A3-4649A6DD280C}
+		{A11E2C14-86B7-1D15-7EA0-BA1A1C93C17E} = {1C243436-5788-1BD0-68A3-4649A6DD280C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90E531CC-1CE0-4204-95C3-A1749555280A}
+	EndGlobalSection
+EndGlobal
