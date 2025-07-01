@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_2_Advance_SQL_Server\\NUnit \u0026 Moq\\Moq\\CustomerCommLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A205E6-CCD9-4E1A-A135-E8EE8F05AB89}|..\\CustomerComm.Tests\\CustomerComm.Tests.csproj|c:\\users\\kiit\\desktop\\digital nurture4.0\\learning_program_solutions\\week_2_advance_sql_server\\nunit \u0026 moq\\moq\\customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A205E6-CCD9-4E1A-A135-E8EE8F05AB89}|..\\CustomerComm.Tests\\CustomerComm.Tests.csproj|c:\\users\\kiit\\desktop\\digital nurture4.0\\learning_program_solutions\\week_2_advance_sql_server\\nunit \u0026 moq\\moq\\customercomm.tests\\customercomm.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D8DF46-93B3-4615-B296-268563E08D75}|CustomerCommLib.csproj|c:\\users\\kiit\\desktop\\digital nurture4.0\\learning_program_solutions\\week_2_advance_sql_server\\nunit \u0026 moq\\moq\\customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D8DF46-93B3-4615-B296-268563E08D75}|CustomerCommLib.csproj|solutionrelative:customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D8DF46-93B3-4615-B296-268563E08D75}|CustomerCommLib.csproj|c:\\users\\kiit\\desktop\\digital nurture4.0\\learning_program_solutions\\week_2_advance_sql_server\\nunit \u0026 moq\\moq\\customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D8DF46-93B3-4615-B296-268563E08D75}|CustomerCommLib.csproj|solutionrelative:mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerComm.Tests",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_2_Advance_SQL_Server\\NUnit \u0026 Moq\\Moq\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_2_Advance_SQL_Server\\NUnit \u0026 Moq\\Moq\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+              "RelativeToolTip": "..\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-01T10:58:20.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerCommTests.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_2_Advance_SQL_Server\\NUnit \u0026 Moq\\Moq\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeDocumentMoniker": "..\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_2_Advance_SQL_Server\\NUnit \u0026 Moq\\Moq\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "RelativeToolTip": "..\\CustomerComm.Tests\\CustomerCommTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:57:53.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerComm.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_2_Advance_SQL_Server\\NUnit \u0026 Moq\\Moq\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeDocumentMoniker": "CustomerComm.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_2_Advance_SQL_Server\\NUnit \u0026 Moq\\Moq\\CustomerCommLib\\CustomerComm.cs",
+              "RelativeToolTip": "CustomerComm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:56:55.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailSender.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_2_Advance_SQL_Server\\NUnit \u0026 Moq\\Moq\\CustomerCommLib\\MailSender.cs",
+              "RelativeDocumentMoniker": "MailSender.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_2_Advance_SQL_Server\\NUnit \u0026 Moq\\Moq\\CustomerCommLib\\MailSender.cs",
+              "RelativeToolTip": "MailSender.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:55:57.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
