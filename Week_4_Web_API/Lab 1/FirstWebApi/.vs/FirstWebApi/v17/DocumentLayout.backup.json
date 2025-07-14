@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 1\\FirstWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0178013-5DDB-4256-9EA1-70B9B2AED0D4}|FirstWebApi.csproj|c:\\users\\kiit\\desktop\\digital nurture4.0\\learning_program_solutions\\week_4_web_api\\lab 1\\firstwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0178013-5DDB-4256-9EA1-70B9B2AED0D4}|FirstWebApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0178013-5DDB-4256-9EA1-70B9B2AED0D4}|FirstWebApi.csproj|c:\\users\\kiit\\desktop\\digital nurture4.0\\learning_program_solutions\\week_4_web_api\\lab 1\\firstwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0178013-5DDB-4256-9EA1-70B9B2AED0D4}|FirstWebApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0178013-5DDB-4256-9EA1-70B9B2AED0D4}|FirstWebApi.csproj|c:\\users\\kiit\\desktop\\digital nurture4.0\\learning_program_solutions\\week_4_web_api\\lab 1\\firstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0178013-5DDB-4256-9EA1-70B9B2AED0D4}|FirstWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0178013-5DDB-4256-9EA1-70B9B2AED0D4}|FirstWebApi.csproj|c:\\users\\kiit\\desktop\\digital nurture4.0\\learning_program_solutions\\week_4_web_api\\lab 1\\firstwebapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0178013-5DDB-4256-9EA1-70B9B2AED0D4}|FirstWebApi.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0178013-5DDB-4256-9EA1-70B9B2AED0D4}|FirstWebApi.csproj|c:\\users\\kiit\\desktop\\digital nurture4.0\\learning_program_solutions\\week_4_web_api\\lab 1\\firstwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0178013-5DDB-4256-9EA1-70B9B2AED0D4}|FirstWebApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 1\\FirstWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 1\\FirstWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T11:23:02.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 1\\FirstWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 1\\FirstWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T11:22:42.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 1\\FirstWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 1\\FirstWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:11:22.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 1\\FirstWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 1\\FirstWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:14:51.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 1\\FirstWebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 1\\FirstWebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:11:05.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

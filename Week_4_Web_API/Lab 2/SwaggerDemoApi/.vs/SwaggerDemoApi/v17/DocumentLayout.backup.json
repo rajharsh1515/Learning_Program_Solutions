@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 2\\SwaggerDemoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DD990D-8249-4D54-9244-3BFD7A0A9EEB}|SwaggerDemoApi.csproj|c:\\users\\kiit\\desktop\\digital nurture4.0\\learning_program_solutions\\week_4_web_api\\lab 2\\swaggerdemoapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DD990D-8249-4D54-9244-3BFD7A0A9EEB}|SwaggerDemoApi.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DD990D-8249-4D54-9244-3BFD7A0A9EEB}|SwaggerDemoApi.csproj|c:\\users\\kiit\\desktop\\digital nurture4.0\\learning_program_solutions\\week_4_web_api\\lab 2\\swaggerdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DD990D-8249-4D54-9244-3BFD7A0A9EEB}|SwaggerDemoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 2\\SwaggerDemoApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 2\\SwaggerDemoApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:38:17.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 2\\SwaggerDemoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Digital Nurture4.0\\Learning_Program_Solutions\\Week_4_Web_API\\Lab 2\\SwaggerDemoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:37:11.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
