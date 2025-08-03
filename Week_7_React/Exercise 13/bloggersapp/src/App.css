@@ -1,0 +1,20 @@
+
+
+.container {
+  display: flex;
+  justify-content: center; /* center items horizontally */
+    gap: 50px; /* spacing between columns */
+  padding: 50px;
+}
+
+.st2, .v1, .mystyle1 {
+  border-left: 4px solid green;
+  padding: 20px;
+  width: 250px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}

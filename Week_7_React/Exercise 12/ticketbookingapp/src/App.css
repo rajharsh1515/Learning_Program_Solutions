@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+hr {
+  margin: 20px 0;
+}
